@@ -4,7 +4,7 @@ Welcome to the **RPG To-Do List** API! This app brings productivity into the wor
 
 ## ✨ Key Features
 - Full CRUD for tasks (quests)
-- Organized by categories (classes or guilds)
+- Organized by categories (skills)
 - Level and XP system
 - Fully themed in an RPG setting
 
